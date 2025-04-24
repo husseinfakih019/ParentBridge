@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "p37JFgVIDjSpd5ZfF5zTpqnIphFffmm3pb5k3kVMej0=",
+  "Source": "ParentBridge.Api",
+  "BasePath": "_content/ParentBridge.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

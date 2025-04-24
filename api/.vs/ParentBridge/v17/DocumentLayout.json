@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ParentBridge\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B78529-3E39-4AD9-882D-7539008698F1}|ParentBridge.Api\\ParentBridge.Api.csproj|c:\\parentbridge\\api\\parentbridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B78529-3E39-4AD9-882D-7539008698F1}|ParentBridge.Api\\ParentBridge.Api.csproj|solutionrelative:parentbridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B78529-3E39-4AD9-882D-7539008698F1}|ParentBridge.Api\\ParentBridge.Api.csproj|c:\\parentbridge\\api\\parentbridge.api\\parentbridge.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{69B78529-3E39-4AD9-882D-7539008698F1}|ParentBridge.Api\\ParentBridge.Api.csproj|solutionrelative:parentbridge.api\\parentbridge.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F00FA7-15CE-4064-8B1C-CF68752229F0}|ParentBridge.Infrastructure\\ParentBridge.Infrastructure.csproj|c:\\parentbridge\\api\\parentbridge.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F00FA7-15CE-4064-8B1C-CF68752229F0}|ParentBridge.Infrastructure\\ParentBridge.Infrastructure.csproj|solutionrelative:parentbridge.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897F87B6-76DC-4CD6-B341-4B0375811D7A}|ParentBridge.Domain\\ParentBridge.Domain.csproj|c:\\parentbridge\\api\\parentbridge.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897F87B6-76DC-4CD6-B341-4B0375811D7A}|ParentBridge.Domain\\ParentBridge.Domain.csproj|solutionrelative:parentbridge.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F62B41-BC81-4442-94B3-30507C720491}|ParentBridge.Application\\ParentBridge.Application.csproj|c:\\parentbridge\\api\\parentbridge.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F62B41-BC81-4442-94B3-30507C720491}|ParentBridge.Application\\ParentBridge.Application.csproj|solutionrelative:parentbridge.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentBridge.Api.http",
+              "DocumentMoniker": "C:\\ParentBridge\\api\\ParentBridge.Api\\ParentBridge.Api.http",
+              "RelativeDocumentMoniker": "ParentBridge.Api\\ParentBridge.Api.http",
+              "ToolTip": "C:\\ParentBridge\\api\\ParentBridge.Api\\ParentBridge.Api.http",
+              "RelativeToolTip": "ParentBridge.Api\\ParentBridge.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-24T17:36:11.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ParentBridge\\api\\ParentBridge.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "ParentBridge.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\ParentBridge\\api\\ParentBridge.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "ParentBridge.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:36:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ParentBridge\\api\\ParentBridge.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "ParentBridge.Domain\\Class1.cs",
+              "ToolTip": "C:\\ParentBridge\\api\\ParentBridge.Domain\\Class1.cs",
+              "RelativeToolTip": "ParentBridge.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:36:00.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ParentBridge\\api\\ParentBridge.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "ParentBridge.Application\\Class1.cs",
+              "ToolTip": "C:\\ParentBridge\\api\\ParentBridge.Application\\Class1.cs",
+              "RelativeToolTip": "ParentBridge.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:35:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ParentBridge\\api\\ParentBridge.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ParentBridge.Api\\Program.cs",
+              "ToolTip": "C:\\ParentBridge\\api\\ParentBridge.Api\\Program.cs",
+              "RelativeToolTip": "ParentBridge.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:35:43.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
